@@ -1,5 +1,5 @@
 # Music-symbols-recognition
-Handwritten music symbols recognition with scikit-learn
+Simple handwritten music symbols recognition app
 
 Currently available 10 types of symbols to recognize:
 "note", "rest", "accent", "bass clef", "treble clef", "beam", "flat", "natural", "sharp", "staccatissimo"
