@@ -10,4 +10,4 @@ $ python train.py
 
 $ python recognize.py example.png
 
-$ python recognize.py *<folder with images>*
+$ python recognize.py <*folder with images*>
